@@ -1,0 +1,1 @@
+Se intentó realizar el commit cuando se creó la carpeta archivos, pero al ser un directorio vacío, GitHub no lo reconoce como un cambio para realizar commit. Al agregar el documento respuesta.txt, el commit es posible para la carpeta archivos
