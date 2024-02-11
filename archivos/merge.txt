@@ -1,3 +1,7 @@
 Gerson Bedoya Hinestroza
 23 años
 Deseo aprender mucho sobre esta paradigma de programación ya que el uso de objetos y sus lenguajes en al programación son de vital importancia en la actualidad. También en un gran punto de partida para entender como funciona la lógica en los programas.
+
+Al agregar el documento respuesta.txt, el commit es posible para la carpeta archivos ya que el directorio no estaba vacío.
+
+Hay que tener mucho cuidado a la hora de modificar dos archivos al mismo tiempo ya que esto conlleva a que haya muchos conflictos y problemas a la hora de querer subir un cambio a GitHub. Se recomienda realizar un pull del repositorio remoto en GitHub para saber que cambios se han realizado y no haya redundancia o errores cuando hagamos nuestros cambios.
