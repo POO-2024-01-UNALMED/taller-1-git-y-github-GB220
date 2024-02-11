@@ -1,0 +1,1 @@
+Al agregar el documento respuesta.txt, el commit es posible para la carpeta archivos ya que el directorio no estaba vacío.
